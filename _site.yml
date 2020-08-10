@@ -1,0 +1,17 @@
+name: "first-website!"
+output_dir: "."
+navbar:
+  title: "Zhongchang's Website"
+  left:
+    - text: "Home"
+      icon: fa-home
+      href: index.html
+    - text: "GIS Work"
+      icon: fa-rocket
+      href: geog176A.html
+  right:
+    - icon: fa-github
+      href: https://github.com/mikejohnson51/geog176A
+output:
+  html_document:
+    theme: cerulean

@@ -1,0 +1,11 @@
+---
+title: "Projects"
+---
+
+In the summer of 2020 I took a class GIS course based in R. I worte some code, and did some cool data science. Here is a collection of links! 
+
+## [Building a project website](https://github.com/ZhongchangYao/ZhongchangYao.git)
+
+- I build a static users site with Github Pages for the first time.
+- Learning to combine texts with supplements, such as links and graphs.
+- Choosing personal settings of this website.
