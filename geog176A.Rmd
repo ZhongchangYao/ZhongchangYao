@@ -4,8 +4,48 @@ title: "Projects"
 
 In the summer of 2020 I took a class GIS course based in R. I worte some code, and did some cool data science. Here is a collection of links! 
 
-## [Building a project website](https://github.com/ZhongchangYao/ZhongchangYao.git)
+## [Lab 01: Building a project website](https://github.com/ZhongchangYao/ZhongchangYao.git)
 
 - I build a static users site with Github Pages for the first time.
 - Learning to combine texts with supplements, such as links and graphs.
 - Choosing personal settings of this website.
+
+
+## [Lab 02: Data Wrangling](https://zhongchangyao.github.io/geog-176A-labs/lab-02.html)
+
+- reading in data using readr
+- manipulating data and tables
+- ggplot to show the result
+
+![](../ZhongchangYao/img/lab2.png)
+
+## [Lab 3: Projections, Distances, and Mapping](https://zhongchangyao.github.io/geog-176A-labs/lab-03.html)
+
+- use sf to manipulate data for further edition
+- showing the targeted result with gghighlight
+- filter the targeted data to analyze the boundry
+
+![](../ZhongchangYao/img/lab3.png)
+
+## [Lab 4: Tesselations, Spatial Joins, and Point-in-Polygon](https://zhongchangyao.github.io/geog-176A-labs/lab-04.html)
+
+- make different centroids for different tessellations
+- using tessellations to represent different forms
+- using the making functions
+
+![](../ZhongchangYao/img/lab4.png)
+
+## [Lab 05: Rasters analysis and Remote Sensing](https://zhongchangyao.github.io/geog-176A-labs/lab-05.html)
+
+- combinning the raster data
+- showing different forms with various colors
+- analyzing kmeans
+
+![](../ZhongchangYao/img/lab5.png)
+
+## [Lab 06: Terrain Analysis](https://zhongchangyao.github.io/geog-176A-labs/lab-06.html)
+
+- open street tools
+- using the whitebox tool to draw image
+- analyze the real situation of flood
+- generating the realistic map

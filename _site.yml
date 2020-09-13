@@ -9,6 +9,9 @@ navbar:
     - text: "GIS Work"
       icon: fa-rocket
       href: geog176A.html
+    - text: "Resume"
+      icon: fa-rocket
+      href: resume.html
   right:
     - icon: fa-github
       href: https://github.com/mikejohnson51/geog176A
