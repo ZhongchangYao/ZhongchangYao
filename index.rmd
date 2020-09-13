@@ -8,6 +8,7 @@ title: "About Me"
   
 I'm the international student in UCSB from China. My major is Geography, and I'm strongly interested in GIS and natural geography. It is also really excited for me to learn about computer science and some arts courses here.
 This is my hometown, Nanjing City, below. I took a cool picture of the downtown area.
+
 Email Address: zhongchang@ucsb.edu
 
 ![](../ZhongchangYao/img/NJC.jpeg)

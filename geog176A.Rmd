@@ -35,6 +35,7 @@ In the summer of 2020 I took a class GIS course based in R. I worte some code, a
 
 ![](../ZhongchangYao/img/lab4.png)
 
+
 ## [Lab 05: Rasters analysis and Remote Sensing](https://zhongchangyao.github.io/geog-176A-labs/lab-05.html)
 
 - combinning the raster data
